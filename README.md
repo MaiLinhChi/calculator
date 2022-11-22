@@ -1,6 +1,6 @@
 ## Available Scripts
 
-Link Demo: [https://cute-gecko-a955c7.netlify.app](Open)
+Link Demo: [https://cute-gecko-a955c7.netlify.app](https://cute-gecko-a955c7.netlify.app)
 
 In the project directory, you can run:
 
